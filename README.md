@@ -1,3 +1,12 @@
-# arrayMethods
+# DOM Array Methods
 
-Practing high order array methods. I fetched random users from the RandomUser API ,used forEach() to loop and output user/wealth, used map() to double wealth, used filter() to filter only millionaires, used sort() to sort by wealth, and finished with reduce() to add all wealth.
+Practicing high order array methods and DOM manipulation.
+
+# Project Specifications
+
+* Fetch random users from the randomuser.me API
+* Use forEach() to loop and output user/wealth
+* Use map() to double wealth
+* Use filter() to filter only millionaires
+* Use sort() to sort by wealth
+* Use reduce() to add all wealth
